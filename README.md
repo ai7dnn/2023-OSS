@@ -1,6 +1,16 @@
 # 2023-OSS
 2023 2학기 오픈소스소프트웨어 교과목
 
+## 개인과제: 다음 내용을 디자인 함께 평가
+- 개인 github 저장소 구축
+  - 잔디심기, readme.md 파일 작성
+- OSS 교과목 내용(Git & GitHub)의 정리
+  - 자기주도학습에 의해 하나의 저장소 생성 후 구축
+- 개인과제 주소 업로드
+  - [A반](https://docs.google.com/spreadsheets/d/1dkaJqXxQ-JRY-r0_0T7IKlT_5RDzRI5Ofi8bTHliJ7k/edit?usp=sharing)
+  - [B반](https://docs.google.com/spreadsheets/d/1BDcVUdrOyOFUChj9r5CjLdHRps9XuoUhbaaT_LJK-FU/edit?usp=sharing)
+  - [빅데이터경영반](https://docs.google.com/spreadsheets/d/1TWcYoSYcOsv7DJ17iAI0Cqboll4Hs0IQpaOW0bSlUj4/edit?usp=sharing)
+
 ## 깃과 깃허브를 사랑하기 위한 유튜브 영상
 - [드림코딩 깃과 깃허브 기초 6분](https://www.youtube.com/watch?v=lPrxhA4PLoA)
 - [드림코딩 깃과 깃허브 이해 50분](https://www.youtube.com/watch?v=Z9dvM7qgN9s) 
